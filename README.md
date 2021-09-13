@@ -1,8 +1,3 @@
-<div align="center">
-  <img alt="gobarber" src="./assets/capa.png" width="auto" heigth="auto"/>
-</div>
-
-</br>
 
 <div align="center">
   <p align="center" >
@@ -95,11 +90,7 @@ $ yarn start
 
 ## 🖊 Licença
 
-Este projeto é desenvolvido sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para saber mais detalhes.
+Copyright © 2021 Certsys Labs and Growth. Built with love in São Paulo. All rights reserved.
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="40px">
-  <p>por <strong> Arthur D'Afonseca e Silva</strong> </p>
-</div>
